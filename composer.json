@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Folio3_UncancelOrder",
+    "name": "OpenMageModuleFostering\/Folio3_UncancelOrder",
     "type": "magento-module",
     "license": "Folio3-License",
     "homepage": "",
     "description": "Folio3 Uncancel Order module gives the magento ecommerce website owner the ability to uncancel any accidentally canceled order.",
     "authors": [
-    {
-        "name": "Folio3",
-        "email": "ecommerce@folio3.com"
-    }
-],
+        {
+            "name": "Folio3",
+            "email": "ecommerce@folio3.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
